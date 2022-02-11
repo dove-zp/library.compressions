@@ -2,7 +2,7 @@
  * \brief compression.lz78 - lz78 compression
  * \author dove-zp
  * \contact https://github.com/dove-zp
- * \version 2018/AUG/01
+ * \version 2018/JULY/22
  * \license MIT License (Expat) 
  */
 
