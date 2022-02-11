@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="lz78">
+      <UniqueIdentifier>{2e977ea7-875f-47a7-aab9-b7a4930af390}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lz78.h">
+      <Filter>lz78</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
