@@ -9,9 +9,10 @@ A collection of compression algorithms.
 * [huffman](https://github.com/dove-zp/library.compressions/tree/huffman)
 * [lzw](https://github.com/dove-zp/library.compressions/tree/lzw)
 * [lz78](https://github.com/dove-zp/library.compressions/tree/lz78)
+
 ## License
 
-This project is licensed under the [MIT License (Expat)](https://tldrlegal.com/license/mit-license). See the [LICENSE.md](./LICENSE.md) file for details.
+This project is licensed under the [MIT License (Expat)](https://tldrlegal.com/license/mit-license). 
 
 <!--  -->
 
